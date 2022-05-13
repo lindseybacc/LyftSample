@@ -1,6 +1,6 @@
 '''
-    @author Lindsey Baccellieri
-    @file name techSample.py
+    @author Lindsey B
+    @file name LyftSample.py
     @date May 12, 2022
     @note This program will accept a POST request containing 
     1 argument in URL and return a new string printing 
